@@ -4,8 +4,7 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 
 This repository is built step by step in the tutorial.
 
-It now includes steps for github
-
+This line was deleted in Update README branch
 
 
 ## Shantanu Mapari 
@@ -14,3 +13,7 @@ It now includes steps for github
 
 ### Doing some changes for pull request
 `sudo apt update`
+
+
+
+## UPDATE-README BRANCH
